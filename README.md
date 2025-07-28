@@ -54,6 +54,7 @@ After training and evaluation:
 
 - **Accuracy**: ~0.97
 - **ROC-AUC Score**: ~0.98
+
   <img width="536" height="393" alt="image" src="https://github.com/user-attachments/assets/1971657c-7e97-4a03-bd9c-72476db0f438" />
 - **Top Features**:
   - Tenure
