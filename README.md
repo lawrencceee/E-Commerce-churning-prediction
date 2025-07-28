@@ -63,7 +63,7 @@ Remarks: The dataset is from https://www.kaggle.com/datasets/ankitverma2010/ecom
    - Checked correlations and feature importances
 
 3. **Model Training**
-   - Used RandomForestClassifier for its robustness and interpretability
+   - Used RandomForestClassifier for its performance and interpretability after comparing it with Logistic Regression Model
    - Trained using a pipeline via scikit-learn
    - Evaluated with accuracy, precision, recall, F1, and ROC-AUC
 
