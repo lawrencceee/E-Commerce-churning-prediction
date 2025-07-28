@@ -2,8 +2,6 @@
 
 This project is a supervised machine learning pipeline that predicts **customer churn** using an e-commerce dataset. It includes **data preprocessing**, **feature engineering**, **model training**, and a live **Gradio web interface** for real-time churn probability prediction.
 
-Remarks: The dataset is from https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction?resource=download
-
 ---
 
 ## 🔍 Problem Statement
@@ -23,6 +21,8 @@ The dataset is sourced from an e-commerce platform and includes:
 - **Demographic data** (e.g. CityTier, Gender, MaritalStatus)
 - **Transactional info** (e.g. OrderAmountHikeFromlastYear, CashbackAmount)
 - **Target variable**: Churn (Yes/No)
+
+Remarks: The dataset is from https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction?resource=download
 
 ---
 
