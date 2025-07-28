@@ -22,26 +22,30 @@ The dataset is sourced from an e-commerce platform and includes:
 - **Transactional info** (e.g. OrderAmountHikeFromlastYear, CashbackAmount)
 - **Target variable**: Churn (Yes/No)
 
-Feature Name 	Description
-CustomerID 	Unique customer ID
-Churn 	Flag indicating whether the customer churned (1) or not (0)
-Tenure 	Tenure of the customer in the organization
-PreferredLoginDevice 	The preferred device used by the customer to log in (e.g., mobile, web)
-CityTier 	City tier classification (e.g., Tier 1, Tier 2, Tier 3)
-WarehouseToHome 	Distance between the warehouse and the customer’s home
-PreferredPaymentMode 	Preferred payment method used by the customer (e.g., credit card, debit card, cash on delivery)
-Gender 	The gender of the customer
-HourSpendOnApp 	Number of hours spent on the mobile application or website
-NumberOfDeviceRegistered 	Total number of devices registered to the customer’s account
-PreferedOrderCat 	Preferred order category of the customer in the last month
-SatisfactionScore 	Customer’s satisfaction score with the service
-MaritalStatus 	Marital status of the customer
-NumberOfAddress 	Total number of addresses added to the customer’s account
-OrderAmountHikeFromlastYear 	Percentage increase in order value compared to last year
-CouponUsed 	Total number of coupons used by the customer in the last month
-OrderCount 	Total number of orders placed by the customer in the last month
-DaySinceLastOrder 	Number of days since the customer’s last order
-CashbackAmount 	Average cashback received by the customer in the last month
+## 🧾 Feature Descriptions
+
+| Feature Name                 | Description                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------|
+| `CustomerID`                | Unique customer ID                                                          |
+| `Churn`                     | Flag indicating whether the customer churned (`1`) or not (`0`)             |
+| `Tenure`                    | Tenure of the customer in the organization                                  |
+| `PreferredLoginDevice`      | Preferred device used to log in (e.g., mobile, web)                         |
+| `CityTier`                  | City tier classification (e.g., Tier 1, Tier 2, Tier 3)                     |
+| `WarehouseToHome`           | Distance between the warehouse and the customer’s home                     |
+| `PreferredPaymentMode`      | Preferred payment method (e.g., credit card, debit card, cash on delivery) |
+| `Gender`                    | Gender of the customer                                                      |
+| `HourSpendOnApp`            | Number of hours spent on the app or website                                 |
+| `NumberOfDeviceRegistered`  | Number of devices registered to the account                                 |
+| `PreferedOrderCat`          | Preferred order category in the last month                                 |
+| `SatisfactionScore`         | Customer satisfaction score                                                 |
+| `MaritalStatus`             | Marital status of the customer                                              |
+| `NumberOfAddress`           | Number of addresses linked to the account                                   |
+| `OrderAmountHikeFromlastYear` | % increase in order amount compared to last year                        |
+| `CouponUsed`                | Number of coupons used in the last month                                    |
+| `OrderCount`                | Total number of orders in the last month                                    |
+| `DaySinceLastOrder`         | Days since the last order                                                   |
+| `CashbackAmount`            | Average cashback received in the last month                                 |
+
 
 Remarks: The dataset is from https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction?resource=download
 
