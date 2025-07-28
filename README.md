@@ -67,15 +67,15 @@ After training and evaluation:
 
 ## 🚀 Interactive Interface For Churn Prediction
 
-1.	**Interactive Churn Prediction App built with Gradio.
+1.	**Interactive Churn Prediction App built with Gradio**
    - Users can input customer information and receive a real-time prediction of churn probability.
-2.	**Live ML demo powered by Gradio.
+2.	**Live ML demo powered by Gradio**
    - Test how customer attributes like tenure, device usage, and satisfaction score influence churn likelihood.
-3.	**Gradio front-end for churn prediction.
+3.	**Gradio front-end for churn prediction**
    - Provides a user-friendly interface to simulate customer profiles and explore model behavior.
-4.	**No-code interface for testing model predictions.
+4.	**No-code interface for testing model predictions**
    - Easily evaluate churn risk without writing a single line of code—ideal for business users or stakeholders.
-5.	**End-to-end ML workflow with Gradio UI.
+5.	**End-to-end ML workflow with Gradio UI**
    - From raw data to real-time predictions—see how your data transforms into insights.
 
 <img width="1242" height="850" alt="image" src="https://github.com/user-attachments/assets/7611a6ab-fe46-4657-9560-dd76fb085c06" />
