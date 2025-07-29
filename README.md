@@ -76,17 +76,17 @@ Remarks: The dataset is from https://www.kaggle.com/datasets/ankitverma2010/ecom
 ## 🧪 Performance
 
 After training and evaluation:
+## 📊 Model Performance Comparison
+
+| Model                | Accuracy | Precision | Recall  | F1 Score |
+|---------------------|----------|-----------|---------|----------|
+| Logistic Regression | 0.915631 | 0.868852  | 0.572973| 0.690554 |
+| Random Forest       | 0.975133 | 0.993711  | 0.854054| 0.918605 |
 
 - **Accuracy**: ~0.97
 - **ROC-AUC Score**: ~0.98
 
   <img width="536" height="393" alt="image" src="https://github.com/user-attachments/assets/1971657c-7e97-4a03-bd9c-72476db0f438" />
-- **Top Features**:
-  - Tenure
-  - SatisfactionScore
-  - CashbackAmount
-- **Correlation Matrix**:
-  <img width="1107" height="881" alt="image" src="https://github.com/user-attachments/assets/67004236-729a-43e2-b305-0ec9fa84b4be" />
 
 ---
 
