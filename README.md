@@ -75,14 +75,14 @@ Remarks: The dataset is from https://www.kaggle.com/datasets/ankitverma2010/ecom
 After training and evaluation:
 # 📊 Model Performance Comparison
 
+Random Forest is used at the end for Churn prediction it has a better performance compared to Logistic Regression.
+
 | Model                | Accuracy | Precision | Recall  | F1 Score |
 |---------------------|----------|-----------|---------|----------|
 | Logistic Regression | 0.915631 | 0.868852  | 0.572973| 0.690554 |
 | Random Forest       | 0.975133 | 0.993711  | 0.854054| 0.918605 |
 
 <img width="790" height="590" alt="image" src="https://github.com/user-attachments/assets/e016500b-9eec-4d8d-8d99-717031397e14" />
-
-Random Forest is used at the end for Churn prediction it has a better performance compared to Logistic Regression.
 
 ---
 
