@@ -63,11 +63,11 @@ Remarks: The dataset is from https://www.kaggle.com/datasets/ankitverma2010/ecom
    - Checked correlations and feature importances
 
 3. **Model Training**
-   - Used RandomForestClassifier for its performance and interpretability after comparing it with Logistic Regression Model
+   - Used RandomForestClassifier and Logistic Regression Model and compare the results to implement a better model
    - Trained using a pipeline via scikit-learn
    - Evaluated with accuracy, precision, recall, F1, and ROC-AUC
 
-4. **Model Inference via Gradio**
+5. **Model Inference via Gradio**
    - Built an interface to enter feature values
    - Returns churn prediction and churn probability in real time
 
@@ -84,6 +84,8 @@ After training and evaluation:
 | Random Forest       | 0.975133 | 0.993711  | 0.854054| 0.918605 |
 
 <img width="790" height="590" alt="image" src="https://github.com/user-attachments/assets/e016500b-9eec-4d8d-8d99-717031397e14" />
+
+Random Forest is used at the end for Churn prediction on the interactive interface as it has a better performance compared to Logistic Regression.
 
 ---
 
