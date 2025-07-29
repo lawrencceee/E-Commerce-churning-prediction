@@ -72,11 +72,8 @@ Remarks: The dataset is from https://www.kaggle.com/datasets/ankitverma2010/ecom
    - Returns churn prediction and churn probability in real time
 
 ---
-
-## 🧪 Performance
-
 After training and evaluation:
-## 📊 Model Performance Comparison
+# 📊 Model Performance Comparison
 
 | Model                | Accuracy | Precision | Recall  | F1 Score |
 |---------------------|----------|-----------|---------|----------|
@@ -85,7 +82,7 @@ After training and evaluation:
 
 <img width="790" height="590" alt="image" src="https://github.com/user-attachments/assets/e016500b-9eec-4d8d-8d99-717031397e14" />
 
-Random Forest is used at the end for Churn prediction on the interactive interface as it has a better performance compared to Logistic Regression.
+Random Forest is used at the end for Churn prediction it has a better performance compared to Logistic Regression.
 
 ---
 
