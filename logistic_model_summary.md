@@ -1,0 +1,36 @@
+# Logistic Regression Coefficients - Churn Prediction
+
+- **PreferedOrderCat_Others**: ↑ Coefficient = 1.847
+- **PreferedOrderCat_Laptop & Accessory**: ↓ Coefficient = -1.680
+- **Tenure**: ↓ Coefficient = -1.629
+- **CashbackAmount**: ↓ Coefficient = -0.821
+- **Complain**: ↑ Coefficient = 0.780
+- **PreferedOrderCat_Mobile Phone**: ↓ Coefficient = -0.703
+- **NumberOfAddress**: ↑ Coefficient = 0.597
+- **MaritalStatus_Married**: ↓ Coefficient = -0.594
+- **PreferredPaymentMode_Cash on Delivery**: ↑ Coefficient = 0.579
+- **Gender_Female**: ↓ Coefficient = -0.507
+- **PreferredPaymentMode_CC**: ↓ Coefficient = -0.486
+- **PreferedOrderCat_Mobile**: ↓ Coefficient = -0.447
+- **PreferredLoginDevice_Phone**: ↓ Coefficient = -0.417
+- **SatisfactionScore**: ↑ Coefficient = 0.415
+- **PreferedOrderCat_Grocery**: ↑ Coefficient = 0.414
+- **PreferredPaymentMode_Credit Card**: ↓ Coefficient = -0.410
+- **MaritalStatus_Divorced**: ↓ Coefficient = -0.401
+- **PreferredPaymentMode_UPI**: ↓ Coefficient = -0.395
+- **MaritalStatus_Single**: ↑ Coefficient = 0.383
+- **NumberOfDeviceRegistered**: ↑ Coefficient = 0.381
+- **CityTier**: ↑ Coefficient = 0.353
+- **OrderCount**: ↑ Coefficient = 0.334
+- **DaySinceLastOrder**: ↓ Coefficient = -0.326
+- **PreferredLoginDevice_Mobile Phone**: ↓ Coefficient = -0.314
+- **WarehouseToHome**: ↑ Coefficient = 0.310
+- **PreferredPaymentMode_E wallet**: ↑ Coefficient = 0.229
+- **PreferredPaymentMode_Debit Card**: ↓ Coefficient = -0.205
+- **PreferredLoginDevice_Computer**: ↑ Coefficient = 0.118
+- **Gender_Male**: ↓ Coefficient = -0.106
+- **CouponUsed**: ↑ Coefficient = 0.099
+- **HourSpendOnApp**: ↓ Coefficient = -0.087
+- **PreferredPaymentMode_COD**: ↑ Coefficient = 0.074
+- **PreferedOrderCat_Fashion**: ↓ Coefficient = -0.044
+- **OrderAmountHikeFromlastYear**: ↓ Coefficient = -0.043
