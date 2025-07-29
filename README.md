@@ -83,10 +83,7 @@ After training and evaluation:
 | Logistic Regression | 0.915631 | 0.868852  | 0.572973| 0.690554 |
 | Random Forest       | 0.975133 | 0.993711  | 0.854054| 0.918605 |
 
-- **Accuracy**: ~0.97
-- **ROC-AUC Score**: ~0.98
-
-  <img width="536" height="393" alt="image" src="https://github.com/user-attachments/assets/1971657c-7e97-4a03-bd9c-72476db0f438" />
+<img width="790" height="590" alt="image" src="https://github.com/user-attachments/assets/e016500b-9eec-4d8d-8d99-717031397e14" />
 
 ---
 
