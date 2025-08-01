@@ -104,7 +104,7 @@ An interactive web app built with **Gradio** that predicts customer churn probab
   From preprocessed data to trained model to deployment — all in one smooth interface.
 
 **🔗 Live Demo (on Hugging Face Spaces):**  
-👉 [Try the Churn Prediction App Here][https://astimepassesby-customer-churning-prediction.hf.space/?logs=container&__theme=system&deep_link=uk2_SeqyLTM](https://huggingface.co/spaces/astimepassesby/customer-churning-prediction)
+👉 [https://astimepassesby-customer-churning-prediction.hf.space/?logs=container&__theme=system&deep_link=uk2_SeqyLTM](https://huggingface.co/spaces/astimepassesby/customer-churning-prediction)
 
 **🖼️ App Screenshot:**  
 <img width="1485" height="629" alt="image" src="https://github.com/user-attachments/assets/2ed5c577-a44c-4460-b030-7faf97da7b09" />
