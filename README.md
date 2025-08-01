@@ -85,28 +85,27 @@ After training and evaluation, Random Forest is used at the end for Churn predic
 
 ---
 
-##🚀 Interactive Interface for Churn Prediction
-💡 What It Does:
-An interactive web app built with Gradio that predicts customer churn probability in real time based on user-inputted data.
+### 🚀 Interactive Interface for Churn Prediction
 
-🎯 Features:
+**💡 What It Does:**  
+An interactive web app built with **Gradio** that predicts customer churn probability in real time based on user-inputted data.
 
-Real-Time Predictions:
-Input customer details and instantly see the likelihood of churn.
+**🎯 Features:**
+- **Real-Time Predictions:**  
+  Input customer details and instantly see the likelihood of churn.
 
-Business-Friendly UI:
-No coding required — designed for product managers, analysts, and stakeholders.
+- **Business-Friendly UI:**  
+  No coding required — designed for product managers, analysts, and stakeholders.
 
-Simulate & Test:
-Play with variables like tenure, device usage, or satisfaction score to explore how they influence churn.
+- **Simulate & Test:**  
+  Play with variables like **tenure**, **device usage**, or **satisfaction score** to explore how they influence churn.
 
-End-to-End ML Integration:
-From preprocessed data to trained model to deployment — all in one smooth interface.
+- **End-to-End ML Integration:**  
+  From preprocessed data to trained model to deployment — all in one smooth interface.
 
-🔗 Live Demo (on Hugging Face Spaces):
-👉 Try the Churn Prediction App Here
+**🔗 Live Demo (on Hugging Face Spaces):**  
+👉 [Try the Churn Prediction App Here][https://astimepassesby-customer-churning-prediction.hf.space/?logs=container&__theme=system&deep_link=uk2_SeqyLTM](https://huggingface.co/spaces/astimepassesby/customer-churning-prediction)
 
-🖼️ App Screenshot:
-[https://astimepassesby-customer-churning-prediction.hf.space/?logs=container&__theme=system&deep_link=uk2_SeqyLTM](https://huggingface.co/spaces/astimepassesby/customer-churning-prediction)
+**🖼️ App Screenshot:**  
 <img width="1485" height="629" alt="image" src="https://github.com/user-attachments/assets/2ed5c577-a44c-4460-b030-7faf97da7b09" />
 
