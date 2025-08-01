@@ -103,5 +103,7 @@ After training and evaluation, Random Forest is used at the end for Churn predic
 5. **End-to-end ML workflow with Gradio UI**
    - From raw data to real-time predictions—see how your data transforms into insights
 
+Link to the demo (deployed on Hugging Face):
+https://astimepassesby-customer-churning-prediction.hf.space/?logs=container&__theme=system&deep_link=uk2_SeqyLTM
+<img width="1485" height="629" alt="image" src="https://github.com/user-attachments/assets/2ed5c577-a44c-4460-b030-7faf97da7b09" />
 
-<img width="1242" height="850" alt="image" src="https://github.com/user-attachments/assets/7611a6ab-fe46-4657-9560-dd76fb085c06" />
