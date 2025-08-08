@@ -63,7 +63,7 @@ Remarks: The dataset is from https://www.kaggle.com/datasets/ankitverma2010/ecom
    - Checked correlations and feature importances
 
 3. **Model Training**
-   - Used RandomForestClassifier and Logistic Regression Model and compare the results to implement a better model
+   - Used XGBoost, RandomForestClassifier and Logistic Regression Model and compare the results to implement a better model
    - Trained using a pipeline via scikit-learn
    - Evaluated with accuracy, precision, recall, F1, and ROC-AUC
 
@@ -79,9 +79,10 @@ After training and evaluation, Random Forest is used at the end for Churn predic
 | Model                | Accuracy | Precision | Recall  | F1 Score |
 |---------------------|----------|-----------|---------|----------|
 | Logistic Regression | 0.915631 | 0.868852  | 0.572973| 0.690554 |
-| Random Forest       | 0.975133 | 0.993711  | 0.854054| 0.918605 |
+| Random Forest       | 0.973357 | 0.987421  | 0.848649| 0.912791 |
+| XGBoost             | 0.984014 | 0.988304  | 0.913514| 0.949438 |
 
-<img width="790" height="590" alt="image" src="https://github.com/user-attachments/assets/e016500b-9eec-4d8d-8d99-717031397e14" />
+<img width="691" height="547" alt="94de24bc-9769-4ea6-a5c0-58df47b4a9be" src="https://github.com/user-attachments/assets/1aa4aac3-f77c-4153-96cb-ee203c2ad44f" />
 
 ---
 
